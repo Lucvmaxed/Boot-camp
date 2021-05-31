@@ -1,2 +1,2 @@
-# Boot-camp
-second file for studying from
+# first-day-repo
+
